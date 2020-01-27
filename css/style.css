@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    margin-top: 20px;
+    background-color: #FFB7C9;
+}
+.box{
+    background-color: aqua;
+    min-height: 100px;
+    margin-bottom: 10px;
+    
+}
+.red{
+    background-color: red;
+}
